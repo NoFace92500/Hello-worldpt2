@@ -1,3 +1,3 @@
 # Hello-worldpt2
-practice using vscode terminal
+To improve is to change.
 There is nothing permanent, except change
